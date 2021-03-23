@@ -1,5 +1,5 @@
 section.repository-list {
-  margin: 40px;
+  margin: 30px;
 
   h1 {
     margin-bottom: 16px;
@@ -23,7 +23,12 @@ section.repository-list {
         display: inline-block;
         margin-top: 16px;
         text-decoration: none;
-        color: #8257e6;
+        background-color: #8257e6;
+        height: 20px;
+        width: 150px;
+        color: #fff;
+        border-radius: 3px;
+        text-align: center;
       }
     }
   }
